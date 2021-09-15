@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @patellalit1507
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python
+- 📍 android developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
