@@ -2,8 +2,6 @@
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python
 - 📍 android developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 patellalit1507/patellalit1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
