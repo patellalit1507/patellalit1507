@@ -1,7 +1,7 @@
 -    Hi, I’m @patellalit1507
 -    Persuing B.Tech from IET-DAVV in "ComputerScience Engineering" branch.
 -    Tech. Enthusiastic
--    Soft_skills in - C,C++,Python,Numpy,Seaborn,Matplotlib,Pandas,Kivy,Tkinter.
+-    Soft_skills in - C , C++, Python, Numpy, Seaborn, Matplotlib, Pandas, Kivy, Tkinter.
 -    I’m currently learning "Data Science"
 - 📍 android developer
 
